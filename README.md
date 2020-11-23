@@ -13,7 +13,7 @@ The script is invoked as:
 
 This works on a host file of the given format,
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/abhinav1401/Hosts-File-Processing/blob/main/Host_File_Sample.png)
 
 The script can be invoked with the following options:
 
