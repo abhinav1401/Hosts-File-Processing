@@ -13,11 +13,7 @@ The script is invoked as:
 
 This works on a host file of the given format,
 
-127.0.0.1       localhost.localdomain   sahara
-192.168.1.10    foo.mydomain.edu        foo
-209.237.226.90  www.opensource.org      picco
-192.168.1.13    bar.mydomain.com        bar
-146.82.138.7    master.debian.org       master
+![alt text](http://url/to/img.png)
 
 The script can be invoked with the following options:
 
@@ -29,7 +25,7 @@ In this case, it prints all the hostnames in the order in which they appear in f
 
 In this case the domain argument is a string that represents the top-level domain of a hostname (the string after the right-most dot in the hostname). For example, if in the sample hosts file, strings localdomain, edu, org and com are all top-level domains. The script in this case prints all the lines of file hosts file where the top-level domain of the hostname matches the given domain argument, in the order in which they appear in the file. 
 
-<b>-c<.b>
+<b>-c</b>
 
 Here the class argument is a string of one character that can only take values A, B or C (please note: only uppercase).
 
