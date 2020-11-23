@@ -37,5 +37,6 @@ In the case in which the value is B, the script prints all the lines of file hos
 
 In the case in which the value is C, the script prints all the lines of file hosts file where the number before the first dot in the IPv4 address field is between 192 and 255, included, in the order in which they appear in the file. 
 
+<h3> Demo </h3>
 
-    
+![alt text](https://github.com/abhinav1401/Hosts-File-Processing/blob/main/Demo.png)
